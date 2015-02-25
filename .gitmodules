@@ -1,0 +1,6 @@
+[submodule "linguine-node"]
+	path = linguine-node
+	url = https://github.com/rigatoni/linguine-node
+[submodule "linguine-python"]
+	path = linguine-python
+	url = https://github.com/rigatoni/linguine-python
